@@ -1,0 +1,22 @@
+.line1{
+  width: 10rem;
+  height: 5px;
+  background-color: #2C3E50;
+}
+.btn{
+  background-color: #1ABC9C;
+}
+.social{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+footer{
+  background-color: #1A252F;
+}
+.foot{
+  background-color: #2C3E50;
+}
+.form-control:focus{
+  box-shadow: unset !important;
+  /* color: white !important; */
+}

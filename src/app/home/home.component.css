@@ -1,0 +1,20 @@
+
+
+
+
+ul
+{
+  list-style: none;
+}
+nav, .foot{
+  background-color: #2C3E50;
+}
+section{
+  background-color: #1ABC9C;
+}
+.line1{
+  width: 10rem;
+  height: 5px;
+  background-color: white;
+}
+
