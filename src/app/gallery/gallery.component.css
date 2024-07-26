@@ -1,0 +1,20 @@
+.line1{
+  width: 10rem;
+  height: 5px;
+  background-color:#2C3E50;
+}
+
+.layer{
+  background-color: rgb(45, 175, 149);
+  opacity: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /* transform: translateY(100%); */
+  transition: all 1s;
+}
+.imgg:hover .layer{
+  /* transform: translateY(0px); */
+  opacity: 0.8;
+}
